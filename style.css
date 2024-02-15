@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Kosugi Maru", sans-serif;
+}
+body {
+  font-family: "Kosugi Maru", sans-serif;
+  background-color: #ffe0ed;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+.gif {  
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  margin-bottom: 14px;
+} 
+.gif-2 {  
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  margin-bottom: 14px;
+} 
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+  width: 800px;
+  position: relative;
+  color: #000000;
+}
+.wrapper h1 {
+  font-size: 24px;
+  letter-spacing: -1px;
+}
+.wrapper .answers {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 60px;
+  margin-top: 30px;
+}
+.wrapper .answers .btn {
+  background-color: #ffb0d0;
+  border: none;
+  color: #ffffff;
+  vertical-align: top;
+  padding: center;
+  font-size: 16px;
+  height: 25px;
+  width: 48px;
+  border-radius: 133px;
+  font-weight: bold;
+  transition: box-shadow 0.15s;
+  cursor: pointer;
+  letter-spacing: -1px;
+}
+.btn:hover {
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.15);
+}
+.confirmation {
+  display: none;
+}
+.confirmation h2 {
+  font-size: 35px;
+}
+.confirmation h3 {
+  font-size: 15px;
+  margin-top: 20px;
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+}
+.confirmation2 {
+  display: none;
+}
+.confirmation2 h2{
+  letter-spacing: -1px;
+  font-size: 18px;
+  margin-top: 250px;
+  margin-bottom: -500px;
+}
