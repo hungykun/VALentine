@@ -3,7 +3,7 @@
 ## About
 I've replicated the Valentine website exactly, but with the addition of a message that pops up when the 'No' button is clicked.
 
-for the e-couples who play valorant :3
+for the couples who play valorant :3
 
 (Link to View) https://hungykun.github.io/VALentine/
 
