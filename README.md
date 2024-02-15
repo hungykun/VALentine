@@ -7,5 +7,8 @@ for the e-couples who play valorant :3
 
 (link to view) https://hungykun.github.io/VALentine/
 
+(tiktok link) https://www.tiktok.com/@hungykun/video/7335632062315040046?is_from_webapp=1&sender_device=pc&web_id=7323099635076171307
+
 ## Social
 (instagram) https://www.instagram.com/hungykun/
+(youtube) https://www.youtube.com/@hearthands
